@@ -46,7 +46,7 @@ Final-project/
 1. Download or clone the repository:
 
    ```
-   git clone https://github.com/yourusername/Final-project.git
+   git clone https://github.com/adegbitejoy123-cloud/Final-project.git
    ```
 2. Open the notebook:
 
